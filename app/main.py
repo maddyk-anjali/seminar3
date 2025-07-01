@@ -12,7 +12,7 @@ def load_model():
     return model
 
 model = load_model()
-
+# dfghjkl
 # === Class Labels (from dataset folders) ===
 class_labels = [
     "Alternaria_Leaf_Spot",
